@@ -116,3 +116,5 @@
 1. 在 Google Drive 新建文件夹，放入 `data/标注结果.xlsx`、`law.txt` 和上表各平台的 `rule_XX.txt`。
 2. 在 Colab 打开 `ip_compliance_eval.ipynb`，在左侧 🔑 中添加 `DEEPSEEK_API_KEY`。
 3. 修改第 1 格中的 `BASE` 为你的文件夹路径，然后依次运行。
+
+（本介绍由Claude设计）
